@@ -1,0 +1,20 @@
+body {
+
+
+    background: rgb(2,0,36);
+    background: linear-gradient(135deg, #00d4ff 0%, #0b6fcc 35%, #0a01b6 100%);
+    background-repeat: space;  
+    text-align: center;
+    font-family: 'Tilt Warp', cursive;
+    -webkit-text-stroke: 1px gold;
+
+}
+
+iframe {
+
+      border-radius: 5px;
+      border-style: solid;
+      border-width: 10px;
+      border-color: purple;
+
+}
